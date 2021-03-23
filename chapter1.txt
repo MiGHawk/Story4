@@ -1,1 +1,3 @@
 The first chapter of the book is not exciting.
+
+But we just made it exciting.
